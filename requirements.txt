@@ -4,6 +4,4 @@ chroma-haystack
 sentence-transformers-haystack
 chromadb
 sentence-transformers
-transformers
-torch
 pymupdf
