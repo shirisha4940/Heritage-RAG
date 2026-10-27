@@ -5,6 +5,8 @@ Heritage-RAG is a Retrieval-Augmented Generation (RAG) application designed to h
 
 The application combines document retrieval with a language model to generate context-aware answers grounded in indexed documents, helping users find relevant information more efficiently.
 
+Application Screenshot
+
 ## Features
 
 - **PDF Upload and Indexing:** Upload PDF documents for processing and retrieval.
