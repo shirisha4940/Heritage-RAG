@@ -1112,7 +1112,7 @@ def delete_document(file_hash: str, confirm_name: str):
 if __name__ == "__main__":
     # Use port 5001 locally; respect PORT if provided by a host.
     serve(
-        host="127.0.0.1",
+        host="0.0.0.0",
         port=int(os.environ.get("PORT", "5001")),
         reload=False,
     )
