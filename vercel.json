@@ -1,0 +1,8 @@
+
+{
+  "functions": {
+    "app.py": {
+      "includeFiles": "chroma_db/**"
+    }
+  }
+}
