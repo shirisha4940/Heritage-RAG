@@ -1,7 +1,7 @@
+
 python-fasthtml
 haystack-ai
 chroma-haystack
-sentence-transformers-haystack
 chromadb
-sentence-transformers
 pymupdf
+huggingface_hub
